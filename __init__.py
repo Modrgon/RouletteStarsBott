@@ -1,4 +1,6 @@
-# handlers/booster/__init__.py
+# handlers/gift/__init__.py
+# يضمن تحميل جميع handlers داخل مجلد gift
 from .create import *
-from .menu import *
-from .activate import *
+from .publish import *
+from .join import *
+from .draw import *
